@@ -153,7 +153,7 @@ a:hover{
 }
 
 input,button,select,textarea{
-  font-family: var(--text-font);
+  /* font-family: var(--text-font); */
   font-weight: 400;
   font-size: 18px;
   background: transparent;
@@ -201,7 +201,7 @@ p{
 
 h1,h2,h3,h4,h5,h6{
   position:relative;
-  font-family: var(--title-font);
+  /* font-family: var(--title-font); */
   font-weight: 700;
   color: var(--title-color);
   margin: 0px;
@@ -1747,11 +1747,11 @@ button.ltr {
   position: relative;
   display: block;
   padding-left: 25px;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 29px;
-  font-family: var(--secondary-font);
+  /* font-family: var(--secondary-font); */
   color: #fff;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .main-footer .newsletter-widget .location-box span img{
